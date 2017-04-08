@@ -1,0 +1,1 @@
+function update(name) { Positional.updateObject(name, -10, -10); }

@@ -1,0 +1,1 @@
+function update(event) { if (event.getType().contains("Death")) { print("lol you died"); } }
